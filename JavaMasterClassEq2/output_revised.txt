@@ -1,0 +1,2 @@
+
+testAddSquareCube=true
