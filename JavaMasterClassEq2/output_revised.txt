@@ -1,2 +1,0 @@
-
-testAddSquareCube=true
